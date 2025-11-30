@@ -15,8 +15,8 @@ export default function ProjectsSection() {
       image: "/project1 (1).png",
       color: "from-blue-500 to-cyan-500",
       tags: ["Next.js", "React", "APIs", "Vercel", "Tailwind CSS"],
-      liveUrl: "https://nexus-ai-platform-two.vercel.app/login",
-      codeUrl: "https://github.com/Mohamed-Eslam777",
+      liveUrl: "https://nexus-ai-platform-two.vercel.app/",
+      codeUrl: "https://github.com/Mohamed-Eslam777/Nexus-AI-Platform",
     },
     {
       title: "Data Analysis Dashboard",
@@ -33,7 +33,7 @@ export default function ProjectsSection() {
       image: "/project3 (1).png",
       color: "from-purple-500 to-pink-500",
       tags: ["HTML", "CSS", "JavaScript", "Netlify", "Responsive Design"],
-      liveUrl: "https://sage-croquembouche-f5ac0.netlify.app",
+      liveUrl: "https://sage-croquembouche-f5ac40.netlify.app",
       codeUrl: "https://github.com/Mohamed-Eslam777",
     },
   ];
